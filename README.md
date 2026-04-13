@@ -28,7 +28,7 @@ K-Means is an unsupervised machine learning algorithm used to group data into **
 
 The goal of this project is to design a **hardware accelerator** for the most computationally intensive step of K-Means:
 
-👉 Distance computation and cluster assignment
+ Distance computation and cluster assignment
 
 Instead of sequential execution (CPU-style), this design performs computations **in parallel**, significantly improving performance.
 
@@ -122,4 +122,8 @@ Basic flow:
 
 This project is a work in progress and is being actively developed to explore hardware acceleration techniques for machine learning algorithms.
 
+---
+
+## Author 
+Mithilesh Subramani 
 ---
