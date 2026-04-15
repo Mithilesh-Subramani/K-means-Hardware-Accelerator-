@@ -4,7 +4,14 @@
 
 This project implements a hardware accelerator for the K-Means clustering algorithm using Verilog. The design focuses on exploiting parallelism to speed up distance computation and cluster assignment, similar to GPU-style architectures.
 
-The implementation is targeted for FPGA using Intel Quartus Prime and simulated using ModelSim.
+``` I plan on implementing the following onto the project as time and knowledge progresses.```
+
+## Designing and synthesizing a hardware accelerator in Verilog targeted at K-means
+## ML workloads. The project covers the full RTL-to-GDSII Physical Design — RTL
+## design, Functional design verification, Logic synthesis, Netlist generation floor
+## planning, placement, and routing (PNR) using (Intel Quartus Prime). 
+
+## The implementation is targeted for FPGA using Intel Quartus Prime and simulated using ModelSim.
 
 ---
 
